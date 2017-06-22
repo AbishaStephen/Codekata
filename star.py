@@ -1,4 +1,2 @@
-  print("****")
-  print("****")
-  print("****")
-  print("****")
+  for i in range(4):
+        print "*" *4
